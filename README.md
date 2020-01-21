@@ -10,6 +10,7 @@ course materials and references for its581
 * [Matering Bitcoin](https://github.com/bitcoinbook)
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 * [Mastering Blockchain](https://www.oreilly.com/library/view/mastering-blockchain/9781787125445/)
+* [Code for Mastering Blockchain](https://github.com/PacktPublishing/Mastering-Blockchain-Second-Edition)
 * [The Blockchain Developer](https://www.apress.com/gp/book/9781484248461)
 * [The Book of Satoshi(in Chinese)](https://news.huoxing24.com/20181108202924431809.html)
 * [Blockchain Basics: A Non-Technical Introduction in 25 Steps](http://www.blockchain-basics.com/)
