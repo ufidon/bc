@@ -32,5 +32,7 @@ course materials and references for its581
   * [Exodus](https://www.exodus.io/)
 
 ## Online courses
-* [MIT Blockchain](https://executive-education-online.mit.edu/presentations/lp/mit-blockchain-technologies-online-short-course/?ef_id=c:347183193107_d:c_n:g_ti:aud-392161264681:kwd-297258015021_p:_k:%2Bblockchain_m:b_a:66199720994&gclid=EAIaIQobChMI86ON3ZCV5wIVh4bACh0iiwYNEAAYAiAAEgIxaPD_BwE&gclsrc=aw.ds)
+* [Blockchain Specialization by UofB](https://www.coursera.org/specializations/blockchain)
+* [Bitcoin and Cryptocurrency Technologies by Princeton](https://www.coursera.org/learn/cryptocurrency)
+* [Blockchain: Foundations and Use Cases by Consensys academy](https://www.coursera.org/learn/blockchain-foundations-and-use-cases)
 
