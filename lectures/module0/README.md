@@ -16,6 +16,8 @@ course materials and references for its581
 
 * __Exploring the World of BlockChain__
   
+  * [btc.com](https://btc.com/)
+  * [Explore Blockchains](https://blockchair.com/)
   * [Coindesk: popular crytocurrency](https://www.coindesk.com/)
   * [Coinbase: popular crytocurrency](https://www.coinbase.com/)
   * [Invest, explore and analyze Blockchain](https://www.blockchain.com/)
