@@ -25,6 +25,7 @@ course materials and references for its581
   
 * __BitCoin__  
 
+  * [Bitcoin](https://www.bitcoin.com/)
   * [Bitcoin](https://bitcoin.org/en/)
   * [Bitcoin Explorer](https://blockstream.info/)
   
