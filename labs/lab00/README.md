@@ -27,12 +27,19 @@ sudo apt-get install monodevelop openjdk-11-jdk
 
 
 **Youtube Videos** 
-  * [Create empty virtual machines for Ubuntu & Windows Server 2019 in VirtualBox 6](https://youtu.be/3PbnBVNWXpk)
-  * [Install Ubuntu 18.04LTS in VirtualBox 6](https://youtu.be/3BHsizTRUg0)
-  * [Install Windows Server 2019 in VirtualBox 6](https://youtu.be/fQZFoSTSuPM)
-  * [Create SEED Ubuntu 16.04 virtual machines and NAT network](https://youtu.be/pwSlVJSCpu0)
-  * [How to run VirtualBox virtual machines on other computers with VirtualBox?](https://youtu.be/Ps30RJ1MzgQ)
-  * [Compile C/C# code on Windows Server 2019 and Ubuntu 18.04LTS](https://youtu.be/ajTLkAqamKs)
+* [Create empty virtual machines for Ubuntu & Windows Server 2019 in VirtualBox 6](https://youtu.be/3PbnBVNWXpk)
+* [Install Ubuntu 18.04LTS in VirtualBox 6](https://youtu.be/3BHsizTRUg0)
+* [Install Windows Server 2019 in VirtualBox 6](https://youtu.be/fQZFoSTSuPM)
+* [Create SEED Ubuntu 16.04 virtual machines and NAT network](https://youtu.be/pwSlVJSCpu0)
+* [How to run VirtualBox virtual machines on other computers with VirtualBox?](https://youtu.be/Ps30RJ1MzgQ)
+* [Compile C/C# code on Windows Server 2019 and Ubuntu 18.04LTS](https://youtu.be/ajTLkAqamKs)
 
+## Linux basics
+* [Unix & Linux introduction](https://bootlin.com/doc/legacy/command-line/)
+* [The Linux Command Line](http://linuxcommand.org/tlcl.php)
+* [The Linux Documentation Project \(LDP\)](https://www.tldp.org/guides.html)
 
-
+## LibreOffice
+* [LibreOffice](https://www.libreoffice.org/)
+* [LibreOffice documentation](https://documentation.libreoffice.org/en/english-documentation/)
+* [zotero - Your personal research assistant](https://www.zotero.org/)

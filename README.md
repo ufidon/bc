@@ -23,12 +23,6 @@ You need to know basic computer skills such as
 * office suites such as Libre Office, Google online office or Microsoft Office
 * surf network, use email/web browser/Google search engine
 
-## Overview on Wikipedia
-* [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
-* [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
-* [Bitcoin Core](https://en.wikipedia.org/wiki/Bitcoin\_Core)
-* [Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency)
-
 ## Reference textbooks
 * [Matering Bitcoin](https://github.com/bitcoinbook)
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
@@ -39,21 +33,6 @@ You need to know basic computer skills such as
 * [Blockchain Basics: A Non-Technical Introduction in 25 Steps](http://www.blockchain-basics.com/)
 * [Best Blockchain Books for 2019 (With Reader Ratings)](https://www.bitcoinmarketjournal.com/best-blockchain-books/)
 
-## Blockchain frameworks
-* [Bitcoin](https://bitcoin.org/en/)
-* [Bitcoin core](https://bitcoincore.org/)
-* [Bitcoin core on Github](https://github.com/bitcoin/bitcoin)
-* [Ethereum](https://ethereum.org/)
-* [Ethereum on Github](https://github.com/ethereum)
-* [Truffle suite - tools for smart contracts](https://www.trufflesuite.com/)
-* [Blockchain on Github](https://github.com/blockchain)
-* [Hyperledger](https://www.hyperledger.org/)
-
-## Blockchian applications
-* _Digital Wallets_
-  * [Coinbase](https://www.coinbase.com/)
-  * [Blockchian](https://www.blockchain.com/)
-  * [Exodus](https://www.exodus.io/)
 
 ## Online courses
 * [Blockchain Specialization by UofB](https://www.coursera.org/specializations/blockchain)
