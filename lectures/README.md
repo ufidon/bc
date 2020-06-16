@@ -29,10 +29,15 @@ course materials and references for its581
 * [Truffle suite - tools for smart contracts](https://www.trufflesuite.com/)
 
 ## Module4: Blockchian applications
-* _Digital Wallets_
+* _Crytocurrencies_
   * [Coinbase](https://www.coinbase.com/)
   * [Blockchain](https://www.blockchain.com/)
   * [Exodus](https://www.exodus.io/)
+* Finacial services
+* Video games
+* Energy trading
+* Supply chain
+* Domain names 
 
 
 ## Module5: Blockchain security
