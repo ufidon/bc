@@ -12,17 +12,36 @@ _Steps_
 1. Download and install [VirtualBox](https://www.virtualbox.org) and VirtualBox Extension Pack.
 2. Create VMS, NAT network, download [Ubuntu](https://ubuntu-mate.org/) ISOs and softwares
 3. Setup Ubuntu & software
+4. Open a terminal, run the following commands
 
 ```bash
-# Inside Ubuntu, open a terminal, run the following commands
+# Update Ubuntu and install system build tools
 sudo apt update
 sudo apt upgrade
-sudo apt install terminator build-essential git cmake mono-complete
+sudo apt install terminator build-essential git cmake 
 sudo apt install apt-transport-https dirmngr
-sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys  3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
-echo "deb https://download.mono-project.com/repo/ubuntu vs-bionic main"  | sudo tee /etc/apt/sources.list.d/mono-official-vs.list
-sudo apt update
-sudo apt-get install monodevelop openjdk-11-jdk
+
+# Install JDK
+sudo apt-get install  default-jdk libreoffice-java-common 
+```
+
+
+5. Install zotero. 
+  1. Download [zotero](https://www.zotero.org/download/) for Linux.
+  2. Install Firefox connector: [Zotero Connector](https://www.zotero.org/download/)
+  
+```bash
+# Install zotero, go to the fold where zotero for linux is saved
+
+# Change the following file name(Zotero-5.0.88_linux-x86_64.tar.bz2) to yours
+tar jxf Zotero-5.0.88_linux-x86_64.tar.bz2
+
+# Check the name(Zotero_linux-x86_64) of the unarchived folder of zotero, change it to yours
+sudo chown $USER:$USER /opt
+mv Zotero_linux-x86_64 /opt/zotero
+sudo cp /opt/zotero/zotero.desktop /usr/share/applications/
+# logout then login Ubuntu
+# run zotero from start menu and install Zotero LibreOffice plugin
 ```
 
 

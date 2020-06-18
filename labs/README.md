@@ -3,7 +3,7 @@ course materials and references for its581
 
 ## Module0: Introduction
 
-* Lab00: Create/configure Ubuntu VM
+* Lab00: Linux basics
 
 
 ## Module1: Blockchain principles
