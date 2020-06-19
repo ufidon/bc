@@ -18,10 +18,16 @@ course materials and references for its581
   
   * [btc.com](https://btc.com/)
   * [Explore Blockchains](https://blockchair.com/)
-  * [Coindesk: popular crytocurrency](https://www.coindesk.com/)
-  * [Coinbase: popular crytocurrency](https://www.coinbase.com/)
   * [Invest, explore and analyze Blockchain](https://www.blockchain.com/)
   * [BlockExplorer](https://blockexplorer.one)
+
+* __Currency exchange market__
+
+  * [Bitcoincharts](https://bitcoincharts.com/)
+  * [Coindesk: popular crytocurrency](https://www.coindesk.com/)
+  * [Coinbase: popular crytocurrency](https://www.coinbase.com/)
+  * [TradingView](https://www.tradingview.com/)  
+  * [Investing](https://www.investing.com/)
   
 * __BitCoin__  
 

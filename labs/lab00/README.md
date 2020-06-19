@@ -22,7 +22,7 @@ sudo apt install terminator build-essential git cmake
 sudo apt install apt-transport-https dirmngr
 
 # Install JDK
-sudo apt-get install  default-jdk libreoffice-java-common 
+sudo apt install  default-jdk libreoffice-java-common 
 ```
 
 

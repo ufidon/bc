@@ -38,4 +38,5 @@ You need to know basic computer skills such as
 * [Blockchain Specialization by UofB](https://www.coursera.org/specializations/blockchain)
 * [Bitcoin and Cryptocurrency Technologies by Princeton](https://www.coursera.org/learn/cryptocurrency)
 * [Blockchain: Foundations and Use Cases by Consensys academy](https://www.coursera.org/learn/blockchain-foundations-and-use-cases)
+* [Developing Ethereum Smart Contracts for Beginners](https://coursetro.com/courses/20/Developing-Ethereum-Smart-Contracts-for-Beginners)
 
