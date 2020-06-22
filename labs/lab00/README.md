@@ -27,8 +27,8 @@ sudo apt install  default-jdk libreoffice-java-common
 
 
 5. Install zotero. 
-  1. Download [zotero](https://www.zotero.org/download/) for Linux.
-  2. Install Firefox connector: [Zotero Connector](https://www.zotero.org/download/)
+  * Download [zotero](https://www.zotero.org/download/) for Linux.
+  * Install Firefox connector: [Zotero Connector](https://www.zotero.org/download/)
   
 ```bash
 # Install zotero, go to the fold where zotero for linux is saved
