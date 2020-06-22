@@ -33,7 +33,12 @@ _*Overview*_
 
 _*Key Components*_
 
+* _Reference slides and labs_
+
+  * [SEED slides and labs](https://www.handsonsecurity.net/resources.html)
+
 * _Blockchain concepts_
+
   * [Blockchain 101](https://www.coindesk.com/learn/blockchain-101)
   * [If you don’t understand blockchain, maybe these cats can explain it to you](https://www.cnbc.com/2017/12/17/cryptokitties-makes-it-easy-to-understand-blockchain-and-genetics.html)
 

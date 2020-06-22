@@ -44,6 +44,26 @@ sudo cp /opt/zotero/zotero.desktop /usr/share/applications/
 # run zotero from start menu and install Zotero LibreOffice plugin
 ```
 
+6. Share host folder with virtual machine
+```bash
+# On the vm runnin window, from menu shared folders->shared folders settings, setup a shared folder,
+# suppose the name of the shared folder is blockchain
+# Inside a terminal window, run the following commands
+cd
+mkdir host
+sudo adduser $USER vboxsf
+# logout then login Ubuntu
+# mount the shared folder on the host directory, a disk icon named host will pop on the desktop
+cd
+sudo mount -t vboxsf -o rw,uid=1000,gid=1000 blockchain host
+
+# show the contents of the shared folder
+ls host
+
+# before power off the virtual machine, umount the shared folder first
+sudo umount host
+
+```
 
 **Youtube Videos** 
 * [Create empty virtual machines for Ubuntu & Windows Server 2019 in VirtualBox 6](https://youtu.be/3PbnBVNWXpk)
