@@ -25,7 +25,7 @@ __Bitcoin official websites__
   
   * [Bitcoin](https://www.bitcoin.com/)
   * [Bitcoin](https://bitcoin.org/en/)
-  * [Bitcoin Explorer](https://blockstream.info/)  
+  * [Bitcoin block explorer](https://blockstream.info/)  
 
 __Bitcoin official Wikis__
 

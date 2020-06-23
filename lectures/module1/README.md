@@ -7,8 +7,14 @@ _*Overview*_
 
 * _Applications_
 
-  * [Blockchain Exchange](https://www.blockchain.com/)
-  * [Blockchain Demo](https://github.com/anders94/blockchain-demo/)
+  * [Cryptocurrency Exchange](https://www.blockchain.com/)
+  * [Blockchain And The Future of the Internet:A Comprehensive Review](https://arxiv.org/pdf/1904.00733.pdf)
+  * [Blockchain and Its Applications –A Detailed Survey](https://www.ijcaonline.org/archives/volume180/number3/aras-2017-ijca-915994.pdf)
+  * [Do you Need a Blockchain?](https://ieeexplore.ieee.org/document/8525392/)
+  * [So when should you consider a blockchain? Answers with Flow Charts.](https://medium.com/@chrshmmmr/so-when-should-you-consider-a-blockchain-answers-with-flow-charts-376936432ce8)
+  * [When do you need blockchain? Decision models.](https://medium.com/@sbmeunier/when-do-you-need-blockchain-decision-models-a5c40e7c9ba1)
+  * [To Blockchain or Not To Blockchain](https://hackernoon.com/to-blockchain-or-not-to-blockchain-45004a23e8a7)
+  * [When to use blockchain in an IoT application](https://www.researchgate.net/figure/Flow-diagram-for-deciding-when-to-use-blockchain-in-an-IoT-application\_fig2\_325494976)
 
 * _Papers_
 
@@ -40,6 +46,7 @@ _*Key Components*_
 * _Blockchain concepts_
 
   * [Blockchain 101](https://www.coindesk.com/learn/blockchain-101)
+  * [Blockchain Demo](https://github.com/anders94/blockchain-demo/)  
   * [If you don’t understand blockchain, maybe these cats can explain it to you](https://www.cnbc.com/2017/12/17/cryptokitties-makes-it-easy-to-understand-blockchain-and-genetics.html)
 
 * _Cryptography_
