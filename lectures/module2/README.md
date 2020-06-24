@@ -76,6 +76,7 @@ __Bitcoin Development and Deployment__
   * [Bitcoin core](https://bitcoincore.org/)
   * [Download - Bitcoin Core](https://bitcoincore.org/en/download/)
   * [Running A Full Node](https://bitcoin.org/en/full-node)
+  * [Testnet](https://en.bitcoin.it/wiki/Testnet)
   * [Bitcoin core on Github](https://github.com/bitcoin/bitcoin)  
   * [bitcoinIDE](https://github.com/siminchen/bitcoinIDE)
   * [bitauth IDE](https://ide.bitauth.com/)
