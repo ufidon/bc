@@ -6,7 +6,7 @@ __Tasks__
 1. Generate a Bitcoin address using command line
 2. Create a wallet using an App, a cloud account and *a desktop application(optional)*
 
-## Task1: Generate a Bitcoin address then encoded as a QR code
+## Task1: Generate a Bitcoin address then encode as a QR code
 ```bash
 # find a suitable folder to work inside
 # 1. Generate an ECC private key
@@ -111,3 +111,7 @@ echo $btaddr
   * [Best Bitcoin Wallets](https://www.thebalance.com/best-bitcoin-wallets-4160642)
   * [WalletGenerator](https://walletgenerator.net/)
   * [Storing Bitcoins](https://en.bitcoin.it/wiki/Storing\_bitcoins)
+  
+* _Bitcoind Developer References_
+
+  * [Bitcoind Developer References](https://developer.bitcoin.org/reference/)
