@@ -102,6 +102,7 @@ echo $btaddr
   * [Coin ATM Radar](https://coinatmradar.com/)
   * [P2P-Trading-Exchanges](https://github.com/cointastical/P2P-Trading-Exchanges/)
   * [Secure trading](https://en.bitcoin.it/wiki/Secure\_Trading)
+  * [How to buy bitcoin](https://99bitcoins.com)  
 
 * _Cryptocurrency wallet_
 
@@ -111,7 +112,10 @@ echo $btaddr
   * [Best Bitcoin Wallets](https://www.thebalance.com/best-bitcoin-wallets-4160642)
   * [WalletGenerator](https://walletgenerator.net/)
   * [Storing Bitcoins](https://en.bitcoin.it/wiki/Storing\_bitcoins)
-  
-* _Bitcoind Developer References_
 
-  * [Bitcoind Developer References](https://developer.bitcoin.org/reference/)
+  
+* _Bitcoin Developer References_
+
+  * [Bitcoin Developer References](https://developer.bitcoin.org/reference/)
+  * [bitcoinj](https://bitcoinj.github.io/)
+  * [bitcoin testnet](https://blockstream.info/testnet/)
