@@ -26,6 +26,7 @@ course materials and references for its581
   * [Ethereum Classic](https://en.wikipedia.org/wiki/Ethereum\_Classic)
   * [The difference between App Coins and Protocol Tokens](https://blog.0xproject.com/the-difference-between-app-coins-and-protocol-tokens-7281a428348c)
   * [Toward an Ethereum Multisig Standard](https://blog.gridplus.io/toward-an-ethereum-multisig-standard-c566c7b7a3f6)
+  * [Step by Step Towards Creating a Safe SmartContract: Lessons and Insights from aCryptocurrency Lab](https://fc16.ifca.ai/bitcoin/papers/DAKMS16.pdf)
   
 * _Smart Contracts_  
 
@@ -90,6 +91,7 @@ course materials and references for its581
   * [ethereum](https://github.com/ethereum)
   * [ethereum-ens](https://www.npmjs.com/package/ethereum-ens)
   * [Truffle tutorials](https://www.trufflesuite.com/tutorials)
+  * [Ethereumlab: Towards Safe Smart Contracts](https://mc2-umd.github.io/ethereumlab/)
 
 * _Documentation_
 

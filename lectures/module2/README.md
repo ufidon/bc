@@ -42,7 +42,7 @@ __Applications__
 
 * _Cryptocurrency exchanges_
 
-	* [We use coins](https://www.weusecoins.com/)
+  * [We use coins](https://www.weusecoins.com/)
   * [Cryptocurrency markets](https://bitcoincharts.com/markets/list/)
   * [CryptoCompare](https://www.cryptocompare.com/)
   * [Coin ATM Radar](https://coinatmradar.com/)
@@ -78,8 +78,11 @@ __Bitcoin Development and Deployment__
   * [Running A Full Node](https://bitcoin.org/en/full-node)
   * [Testnet](https://en.bitcoin.it/wiki/Testnet)
   * [Bitcoin core on Github](https://github.com/bitcoin/bitcoin)  
+  * [Programming Bitcoin](https://github.com/jimmysong/programmingbitcoin)
   * [bitcoinIDE](https://github.com/siminchen/bitcoinIDE)
   * [bitauth IDE](https://ide.bitauth.com/)
+  * [Miniscript - a language for writing (a subset of) Bitcoin Scripts](http://bitcoin.sipa.be/miniscript/)
+  * [Spedn - a high level smart contracts language for Bitcoin Cash](https://spedn.readthedocs.io/en/latest/index.html)
 
 __Anecdotes__
   * [How the NSA Identified Satoshi nakamoto](https://cacm.acm.org/careers/220610-how-the-nsa-identified-satoshinakamoto/fulltext)
