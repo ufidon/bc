@@ -4,7 +4,8 @@ course materials and references for its581
 __Tasks__
 
 1. Generate a Bitcoin address using command line
-2. Create a wallet using an App, a cloud account and *a desktop application(optional)*
+2. Generate a Bitcoin address using ipython3 and python packages (base58, hashlib, fastecdsa)
+3. Create a wallet using an App, a cloud account and *a desktop application(optional)*
 
 ## Task1: Generate a Bitcoin address then encode as a QR code using *command line*
 ```bash
@@ -81,7 +82,7 @@ echo $btaddr
 
 ```
 
-## Task2: Generate a Bitcoin address then encode as a QR code using *ipython3 and python packages (base58, fastecdsa)*
+## Task2: Generate a Bitcoin address then encode as a QR code using *ipython3 and python packages (base58, hashlib, fastecdsa)*
 ```python
 # 0. Install required Python packages
 sudo pip3 install base58  fastecdsa
