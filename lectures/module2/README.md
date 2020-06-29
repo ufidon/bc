@@ -83,6 +83,23 @@ __Bitcoin Development and Deployment__
   * [bitauth IDE](https://ide.bitauth.com/)
   * [Miniscript - a language for writing (a subset of) Bitcoin Scripts](http://bitcoin.sipa.be/miniscript/)
   * [Spedn - a high level smart contracts language for Bitcoin Cash](https://spedn.readthedocs.io/en/latest/index.html)
+  * [practical cryptography for developers](https://cryptobook.nakov.com/)
+  
+__Bitcoin API and tools__
+
+  * [Bitcoin Developer APIs](https://www.blockchain.com/api)
+  * [Coinbase digital APIs ](https://developers.coinbase.com/)
+  * [pybitcointools](https://github.com/primal100/pybitcointools)
+  * [Bitcoin in Go: btcd, btcwallet, btcsim, btcutil](https://github.com/btcsuite)
+  * [pycoin](https://github.com/richardkiss/pycoin)
+  * [Libbitcoin wiki](https://en.bitcoin.it/wiki/Libbitcoin)
+  * [libbitcoin](https://github.com/libbitcoin)
+  * [bitcoinj](https://bitcoinj.github.io/)
+  * [picocoin](https://github.com/jgarzik/picocoin)
+  * [pycoin](https://github.com/richardkiss/pycoin)
+  * [pycoin doc](https://pycoin.readthedocs.io)
+  * [Blockchain Web Services](https://www.blockcypher.com/)
+  * [The Top 13 Bitcoin, Blockchain & Cryptocurrency APIs 2020](https://rapidapi.com/blog/bitcoin-blockchain-cryptocurrency-apis/)
 
 __Anecdotes__
   * [How the NSA Identified Satoshi nakamoto](https://cacm.acm.org/careers/220610-how-the-nsa-identified-satoshinakamoto/fulltext)
