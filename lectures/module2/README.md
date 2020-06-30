@@ -92,14 +92,14 @@ __Bitcoin API and tools__
   * [pybitcointools](https://github.com/primal100/pybitcointools)
   * [Bitcoin in Go: btcd, btcwallet, btcsim, btcutil](https://github.com/btcsuite)
   * [pycoin](https://github.com/richardkiss/pycoin)
+  * [pycoin doc](https://pycoin.readthedocs.io)  
+  * [picocoin](https://github.com/jgarzik/picocoin)  
   * [Libbitcoin wiki](https://en.bitcoin.it/wiki/Libbitcoin)
   * [libbitcoin](https://github.com/libbitcoin)
   * [bitcoinj](https://bitcoinj.github.io/)
-  * [picocoin](https://github.com/jgarzik/picocoin)
-  * [pycoin](https://github.com/richardkiss/pycoin)
-  * [pycoin doc](https://pycoin.readthedocs.io)
   * [Blockchain Web Services](https://www.blockcypher.com/)
   * [The Top 13 Bitcoin, Blockchain & Cryptocurrency APIs 2020](https://rapidapi.com/blog/bitcoin-blockchain-cryptocurrency-apis/)
-
+  * [PyCryptodome](https://pycryptodome.readthedocs.io/en/latest/)
+  
 __Anecdotes__
   * [How the NSA Identified Satoshi nakamoto](https://cacm.acm.org/careers/220610-how-the-nsa-identified-satoshinakamoto/fulltext)

@@ -148,7 +148,7 @@ dr,ds=ecDer.decode_signature(dersig)
 # 5. construct the compressed public key
 strx=hex(pubkey.x)[2:]
 
-zpub = '03'+strx if (pubkey.x % 2) else '02'+strx
+zpub = '03'+strx if (pubkey.y % 2) else '02'+strx
 
 # 6. generate public-key hash: HASH160(x) = RIPEMD160(SHA256(x))
 
