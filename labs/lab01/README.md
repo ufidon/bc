@@ -213,6 +213,7 @@ btaddr
 
   * [Elliptic Curve Cryptography](https://wiki.openssl.org/index.php/Elliptic\_Curve\_Cryptography)
   * [Command Line Elliptic Curve Operations](https://wiki.openssl.org/index.php/Command\_Line\_Elliptic\_Curve\_Operations)
+  * [bx: libbitcoin-explorer](https://github.com/libbitcoin/libbitcoin-explorer)
   * [Bitcoin key mechanism and elliptic curves over finite fields](https://www.johndcook.com/blog/2018/08/14/bitcoin-elliptic-curves/)
   * [Elliptic Curve Cryptography (ECC)](https://cryptobook.nakov.com/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc)
   * [Basic blockchain programming](http://davidederosa.com/basic-blockchain-programming/)

@@ -63,6 +63,7 @@ __Applications__
   * [Best Bitcoin Wallets](https://www.thebalance.com/best-bitcoin-wallets-4160642)
   * [WalletGenerator](https://walletgenerator.net/)
   * [Storing Bitcoins](https://en.bitcoin.it/wiki/Storing\_bitcoins)
+  * [Paper wallet generator](https://generatepaperwallet.com/)
   
 
 __Bitcoin official websites__
@@ -106,6 +107,17 @@ __Bitcoin API and tools__
   * [Blockchain Web Services](https://www.blockcypher.com/)
   * [The Top 13 Bitcoin, Blockchain & Cryptocurrency APIs 2020](https://rapidapi.com/blog/bitcoin-blockchain-cryptocurrency-apis/)
   * [PyCryptodome](https://pycryptodome.readthedocs.io/en/latest/)
+  
+__Build your own cryptocurrency (ICO)__
+  * [ICO: Initial coin offering](https://en.wikipedia.org/wiki/Initial\_coin\_offering)
+  * [ICO 101](https://cointelegraph.com/ico-101)
+  * [What is an ICO?](https://cryptonews.com/guides/what-is-an-ico.htm)
+  * [Can I create my own cryptocurrency?](https://cryptonews.com/guides/can-i-create-my-own-cryptocurrency.htm)
+  * [CoinGenerator](https://coingenerator.sh/)
+  * [PoS CoinGenerator](https://github.com/sandoche/Proof-of-Stake-Cryptocurrency-generator)
+  * [AltCoin Generator](https://github.com/Mindinventory/AltCoin-CryptoCurrency-Generator)
+  * [How to Build Your Own Cryptocurrency (PoS) in Just a Few Minutes](https://medium.com/learning-lab/how-to-build-your-own-cryptocurrency-proof-of-stake-in-just-a-few-minutes-6d526bca4a91)
+  * [hummingbot](https://hummingbot.io/)
   
 __Anecdotes__
   * [How the NSA Identified Satoshi nakamoto](https://cacm.acm.org/careers/220610-how-the-nsa-identified-satoshinakamoto/fulltext)
