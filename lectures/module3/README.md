@@ -103,6 +103,7 @@ course materials and references for its581
 
 * _Stories_
   * [The Ether Thief](https://www.buzzfeednews.com/article/josephbernstein/you-just-stole-50-million-in-cryptocurrency-now-how-the-hell)
+  * [Who is Vitalik Buterin?](https://cointelegraph.com/ethereum-for-beginners/who-is-vitalik-buterin)
 
 * _Videos_
 
