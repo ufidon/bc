@@ -7,6 +7,7 @@ __Overview__
 
   * [Bitcoin 101](https://www.coindesk.com/learn/bitcoin-101/)
   * [Bitcoin Introduction](https://en.bitcoin.it/wiki/Help:Introduction)
+  * [Bitcoin myths](https://en.bitcoin.it/wiki/Myths)
 
 __Bitcoin Inside__
 
@@ -16,6 +17,7 @@ __Bitcoin Inside__
   * [WIF - Wallet import format](https://en.bitcoin.it/wiki/Wallet\_import\_format)
   * [How to import private keys](https://en.bitcoin.it/wiki/How\_to\_import\_private\_keys)
   * [Address](https://en.bitcoin.it/wiki/Address)
+  * [libbitcoin-explorer](https://github.com/libbitcoin/libbitcoin-explorer)
   * [List of address prefixes](https://en.bitcoin.it/wiki/List\_of\_address\_prefixes)
   * [Base58Check encoding](https://en.bitcoin.it/wiki/Base58Check\_encoding)
   * [Elliptic Curve Digital Signature Algorithm](https://en.bitcoin.it/wiki/Elliptic\_Curve\_Digital\_Signature\_Algorithm)
