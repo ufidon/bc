@@ -12,6 +12,9 @@ __Bitcoin Inside__
 
   * [SEED Bitcoin and Blockchain](https://www.handsonsecurity.net/resources.html)
   * [Bitcoin protocol](https://en.bitcoin.it/wiki/Protocol\_documentation)
+  * [Private key](https://en.bitcoin.it/wiki/Private\_key)
+  * [WIF - Wallet import format](https://en.bitcoin.it/wiki/Wallet\_import\_format)
+  * [How to import private keys](https://en.bitcoin.it/wiki/How\_to\_import\_private\_keys)
   * [Address](https://en.bitcoin.it/wiki/Address)
   * [List of address prefixes](https://en.bitcoin.it/wiki/List\_of\_address\_prefixes)
   * [Base58Check encoding](https://en.bitcoin.it/wiki/Base58Check\_encoding)
@@ -48,6 +51,7 @@ __Applications__
   * [Coin ATM Radar](https://coinatmradar.com/)
   * [P2P-Trading-Exchanges](https://github.com/cointastical/P2P-Trading-Exchanges/)
   * [Secure trading](https://en.bitcoin.it/wiki/Secure\_Trading)
+  * [Receiving donations with bitcoin](https://en.bitcoin.it/wiki/Receiving\_donations\_with\_bitcoin)
 
 * _Cryptocurrency wallet_
 
