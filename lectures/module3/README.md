@@ -99,7 +99,7 @@ course materials and references for its581
   * [Hedera Hashgraph Thinks It Can One-Up Bitcoin And Ethereum With Faster Transactions](https://www.forbes.com/sites/jeffkauflin/2018/03/13/hedera-hashgraph-thinks-it-can-one-up-bitcoin-and-ethereum-with-faster-transactions/#63e23f27abcb)
 
 * _Development_
-
+  * [Ethereum Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list)
   * [Camel case](https://en.wikipedia.org/wiki/Camel\_case)
   * [Remix: web IDE for deploying and interacting with a smart contract](http://remix.ethereum.org/)
   * [How To Learn Solidity: The Ultimate Ethereum Coding Tutorial](https://blockgeeks.com/guides/solidity/)
