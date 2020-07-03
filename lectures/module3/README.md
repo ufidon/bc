@@ -3,13 +3,25 @@ course materials and references for its581
 
 ## Module3: Ethereum
 
-* _Explorer_
-
+* _Overview_
+  * [Ethereum overview](https://en.wikipedia.org/wiki/Ethereum)
+  * [Ethereum Introduction](https://github.com/ethereum/wiki/wiki/Ethereum-introduction)
   * [Etherscan: Ethereum Blockchain Explorer](https://etherscan.io/)
+  * [ethereum ow](https://ethereum.org)
+  * [Ethereum Wiki](https://eth.wiki/)
 
+* _Cryptocurrency_
+  * [Ethereum Wallets](https://ethereum.org/en/wallets/)
+  * [metamask](https://metamask.io/)
+  * [Eth Gas Station](https://ethgasstation.info/)
+  * [Absolute Beginner Introduction to Ethereum](https://www.mewtopia.com/absolute-beginners-guide/)  
+  * [Best Ethereum Wallets 2019: Hardware vs Software vs Paper](https://blockonomi.com/best-ethereum-wallets/)
 
 * _Applications_
-
+  * [dapps](https://www.dapp.com/)
+  * [stateofthedapps](https://www.stateofthedapps.com/)
+  * [dappradar](https://dappradar.com/)
+  * [Defi pulse](https://defipulse.com/)
   * [What is An Initial Coin Offering? Raising Millions In Seconds](https://blockgeeks.com/guides/initial-coin-offering/)
   * [Liquid democracy uses blockchain to fix politics, and now you can vote for it](https://techcrunch.com/2018/02/24/liquid-democracy-uses-blockchain/)
   * [What is and how to use the Ethereum Name Service (ENS)](https://www.cryptocompare.com/coins/guides/what-is-and-how-to-use-the-ens/)
@@ -19,6 +31,7 @@ course materials and references for its581
 * _Papers_
 
   * [White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
+  * [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
   * [Ethereum 101](https://www.coindesk.com/learn/ethereum-101)
   * [Vitalik Buterin Doubles Down on Ethereum Incentive Strategy](https://www.coindesk.com/vitalik-buterin-doubles-ethereum-incentive-strategy)
   * [Use Ethereum Applications](https://ethereum.org/dapps/)
@@ -27,6 +40,10 @@ course materials and references for its581
   * [The difference between App Coins and Protocol Tokens](https://blog.0xproject.com/the-difference-between-app-coins-and-protocol-tokens-7281a428348c)
   * [Toward an Ethereum Multisig Standard](https://blog.gridplus.io/toward-an-ethereum-multisig-standard-c566c7b7a3f6)
   * [Step by Step Towards Creating a Safe SmartContract: Lessons and Insights from aCryptocurrency Lab](https://fc16.ifca.ai/bitcoin/papers/DAKMS16.pdf)
+  
+* _Internals_
+  * [SHA-3](https://en.wikipedia.org/wiki/SHA-3)
+  * [Elliptic Curve Digital Signature Algorithm](https://en.wikipedia.org/wiki/Elliptic\_Curve\_Digital\_Signature\_Algorithm)
   
 * _Smart Contracts_  
 
@@ -94,7 +111,8 @@ course materials and references for its581
   * [Ethereumlab: Towards Safe Smart Contracts](https://mc2-umd.github.io/ethereumlab/)
 
 * _Documentation_
-
+  * [Ethereum Wiki](https://eth.wiki/)
+  * [Ethereum wiki (old)](https://github.com/ethereum/wiki/wiki)
   * [What is Ethereum?](https://ethdocs.org/en/latest/introduction/what-is-ethereum.html)
   * [Introduction to Smart Contracts](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html)
   * [Account Management](https://ethdocs.org/en/latest/account-management.html)
