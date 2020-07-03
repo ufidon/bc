@@ -34,8 +34,16 @@ __Bitcoin Inside__
   * [How does Bitcoin work?](https://bitcoin.org/en/how-it-works)
   * [Bitcoin Block Hash Calculation Tool](https://cse.buffalo.edu/blockchain/blockhash.html)
   * [Encrypting and Decrypting Messages](https://cse.buffalo.edu/blockchain/encryption.html)
+  
+__Mining__ 
   * [Decoding the enigma of Bitcoin Mining](https://medium.com/all-things-ledger/decoding-the-enigma-of-bitcoin-mining-f8b2697bc4e2)
   * [Mining bitcoins](https://en.bitcoin.it/wiki/Mining)
+  * [How to Mine Bitcoin: Everything You Need to Know](https://cointelegraph.com/bitcoin-for-beginners/how-to-mine-bitcoin-everything-you-need-to-know)
+  * [Bitcoin Mining Guide - Getting started with Bitcoin mining](https://www.bitcoinmining.com/getting-started/)
+  * [Bitcoin Mining Software Guide](https://www.bitcoinmining.com/bitcoin-mining-software/)
+  * [Bitcoin Mining Software](https://www.buybitcoinworldwide.com/mining/software/)
+  * [8 of the Best Bitcoin Mining Software for 2020](https://blog.hubspot.com/marketing/bitcoin-mining-software)
+  
   
 __Bitcoin Papers__
 

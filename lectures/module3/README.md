@@ -26,6 +26,12 @@ course materials and references for its581
   * [Liquid democracy uses blockchain to fix politics, and now you can vote for it](https://techcrunch.com/2018/02/24/liquid-democracy-uses-blockchain/)
   * [What is and how to use the Ethereum Name Service (ENS)](https://www.cryptocompare.com/coins/guides/what-is-and-how-to-use-the-ens/)
   * [Commentary: How Blockchain Could Replace Social Security Numbers](https://fortune.com/2018/01/11/blockchain-technology-social-security-number-cybersecurity-identity-theft/)
+  
+* _Mining_
+  * [How to Mine Ethereum. Guide for beginners](https://cointelegraph.com/ethereum-for-beginners/how-to-mine-ethereum-guide-for-beginners)
+  * [10 Best Ethereum (ETH) Mining Software In 2020](https://news.crypterium.com/best-ethereum-mining-software/)
+  * [Beginner’s Guide to Ethereum mining](https://99bitcoins.com/ethereum/ethereum-mining/)
+  * [Ethereum Mining: the Ultimate Guide on How to Mine Ethereum](https://www.bitdegree.org/tutorials/ethereum-mining/)
 
 
 * _Papers_
