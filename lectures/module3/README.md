@@ -5,10 +5,13 @@ course materials and references for its581
 
 * _Overview_
   * [Ethereum overview](https://en.wikipedia.org/wiki/Ethereum)
+  * [Ethereum 101](https://www.coindesk.com/learn/ethereum-101/)
   * [Ethereum Introduction](https://github.com/ethereum/wiki/wiki/Ethereum-introduction)
   * [Etherscan: Ethereum Blockchain Explorer](https://etherscan.io/)
   * [ethereum ow](https://ethereum.org)
   * [Ethereum Wiki](https://eth.wiki/)
+  * [ethereum101](http://www.ethereum101.org/)
+  * [ethereum-101](https://goodbit101.com/learn/ethereum-101)
 
 * _Cryptocurrency_
   * [Ethereum Wallets](https://ethereum.org/en/wallets/)
