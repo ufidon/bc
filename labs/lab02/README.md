@@ -25,9 +25,11 @@ _complete runs_
       * [types](https://solidity.readthedocs.io/en/latest/types.html)
       * [Units and Globally Available Variables](https://solidity.readthedocs.io/en/latest/units-and-global-variables.html)
       * [Expressions and Control Structures](https://solidity.readthedocs.io/en/latest/control-structures.html)
-      * [ERC20](https://docs.openzeppelin.com/contracts/2.x/api/token/erc20)
+      * [ERC20: the standard of fungible tokens](https://docs.openzeppelin.com/contracts/2.x/api/token/erc20)
     * _collectible tokens_
-
+			* [erc721: the standard of nonfungible tokens](http://erc721.org/)
+			* [Contracts](https://solidity.readthedocs.io/en/latest/contracts.html)
+			* [Safemath](https://docs.openzeppelin.com/contracts/3.x/api/math)
       
 _Smart contracts_
 
