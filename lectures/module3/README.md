@@ -54,6 +54,10 @@ course materials and references for its581
   * [SHA-3](https://en.wikipedia.org/wiki/SHA-3)
   * [Elliptic Curve Digital Signature Algorithm](https://en.wikipedia.org/wiki/Elliptic\_Curve\_Digital\_Signature\_Algorithm)
   
+* _Statistics_
+  * [Eth Gas Station](https://ethgasstation.info/)
+  * [Cryptocurrency statistics](https://bitinfocharts.com/)
+  
 * _Smart Contracts_  
 
   * [Smart Contracts: The Blockchain Technology That Will Replace Lawyers](https://blockgeeks.com/guides/smart-contracts/)
@@ -85,6 +89,7 @@ course materials and references for its581
   * [Calls, transactions, events, filters and topics](https://nethereum.readthedocs.io/en/latest/contracts/calling-transactions-events/)
   * [Technical Introduction to Events and Logs in Ethereum](https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e)
   * [solidity-patterns](https://fravoll.github.io/solidity-patterns/oracle.html)
+  * [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 
 * _Dapps_
 
