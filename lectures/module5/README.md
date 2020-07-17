@@ -13,6 +13,8 @@ course materials and references for its581
 
 * __Smart Contract Security__
   * _vulnerabilities & hackings_
+    * [History of Ethereum Security Vulnerabilities, Hacks, and Their Fixes](https://applicature.com/blog/blockchain-technology/history-of-ethereum-security-vulnerabilities-hacks-and-their-fixes)
+    * [A Survey on Ethereum Systems Security:Vulnerabilities, Attacks and Defenses](https://arxiv.org/pdf/1908.04507.pdf)
     * [Analysis of the DAO exploit](https://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/)
     * [Reentrancy Attack On Smart Contracts: How To Identify The Exploitable And An Example Of An Attack Contract](https://medium.com/@gus_tavo_guim/reentrancy-attack-on-smart-contracts-how-to-identify-the-exploitable-and-an-example-of-an-attack-4470a2d8dfe4)
     * [How $800k Evaporated from the PoWH Coin Ponzi Scheme Overnight](https://medium.com/@ebanisadr/how-800k-evaporated-from-the-powh-coin-ponzi-scheme-overnight-1b025c33b530)
@@ -26,7 +28,27 @@ course materials and references for its581
     * [An Ethereum Roulette](https://swende.se/blog/Breaking\_the\_house.html)
     * [Predicting Random Numbers in Ethereum Smart Contracts](https://blog.positive.com/predicting-random-numbers-in-ethereum-smart-contracts-e5358c6b8620)
     * [Scanning Live Ethereum Contracts for the "Unchecked-Send" Bug](https://hackingdistributed.com/2016/06/16/scanning-live-ethereum-contracts-for-bugs/)
-    
+    * [Multiple withdrawal attack](https://blockchain-projects.readthedocs.io/multiple\_withdrawal.html)
+      * [Resolution on the EIP20 API Approve \/ TransferFrom multiple withdrawal attack](https://github.com/ethereum/EIPs/issues/738)
+      * [ERC20 API: An Attack Vector on Approve\/TransferFrom Methods](https://docs.google.com/document/d/1YLPtQxZu1UAvO9cZ1O2RPXBbT0mooh4DYKjA\_jp-RLM/edit#heading=h.m9fhqynw2xvt)
+    * [Implementing Ethereum trading front-runs on the Bancor exchange in Python](https://hackernoon.com/front-running-bancor-in-150-lines-of-python-with-ethereum-api-d5e2bfd0d798)
+      * [Frontrunning Bancor — DevCon3 (Ethereum Developers Conference)](https://youtu.be/RL2nE3huNiI)
+      * [Bancor](https://www.bancor.network/)
+    * [GovernMental's 1100 ETH jackpot payout is stuck because it uses too much gas](https://www.reddit.com/r/ethereum/comments/4ghzhv/governmentals\_1100\_eth\_jackpot\_payout\_is\_stuck/)
+      * [GovernMental](http://governmental.github.io/GovernMental/)
+    * [Can a contract safely rely on block.timestamp?](https://ethereum.stackexchange.com/questions/413/can-a-contract-safely-rely-on-block-timestamp?utm\_medium=organic&utm\_source=google\_rich\_qa&utm\_campaign=google\_rich\_qa)
+    * [Hacking Rubixi](https://bitcointalk.org/index.php?topic=1400536.60)
+      * [Rubixi](https://etherscan.io/address/0xe82719202e5965Cf5D9B6673B7503a3b92DE20be\#code)
+    * [Storage Allocation Exploits in Ethereum Smart Contracts](https://medium.com/cryptronics/storage-allocation-exploits-in-ethereum-smart-contracts-16c2aa312743)
+      * [How does this honeypot work? It seems like a private variable gets overwritten by another.](https://www.reddit.com/r/ethdev/comments/7wp363/how\_does\_this\_honeypot\_work\_it\_seems\_like\_a/)
+      * [OpenAddressLottery](https://etherscan.io/address/0x741f1923974464efd0aa70e77800ba5d9ed18902\#code     
+    * [An analysis of a couple Ethereum honeypot contracts](https://medium.com/coinmonks/an-analysis-of-a-couple-ethereum-honeypot-contracts-5c07c95b0a8d)
+      * [CryptoRoulette](https://etherscan.io/address/0x8685631276cfcf17a973d92f6dc11645e5158c0c\#code)
+    * [Ethereum Contracts Are Going To Be Candy For Hackers](https://vessenes.com/ethereum-contracts-are-going-to-be-candy-for-hackers/)
+      * [Ethstick](https://etherscan.io/address/0xbA6284cA128d72B25f1353FadD06Aa145D9095Af\#code)
+    * [Solidity: Tx Origin Attacks](https://medium.com/coinmonks/solidity-tx-origin-attacks-58211ad95514)
+      * [Tx.Origin And Ethereum Oh My!](https://vessenes.com/tx-origin-and-ethereum-oh-my/)
+      * [What's the difference between 'msg.sender' and 'tx.origin'?](https://ethereum.stackexchange.com/questions/1891/whats-the-difference-between-msg-sender-and-tx-origin)
         
   * _best programming practices_
     * [How to Secure Your Smart Contracts: 6 Solidity Vulnerabilities and how to avoid them Part I](https://medium.com/loom-network/how-to-secure-your-smart-contracts-6-solidity-vulnerabilities-and-how-to-avoid-them-part-1-c33048d4d17d)
@@ -39,9 +61,14 @@ course materials and references for its581
     * [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
     * [Solidity security considerations](https://solidity.readthedocs.io/en/latest/security-considerations.html)
     
-  * _reusable contracts_
-    * [OpenZeppelin contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
-    * [OpenZeppelin](https://docs.openzeppelin.com/openzeppelin/)
+  * _reusable contracts or libraries_
+    * [OpenZeppelin suite](https://openzeppelin.com/)
+      * [OpenZeppelin contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+      * [OpenZeppelin](https://docs.openzeppelin.com/openzeppelin/)
+      * [OpenZeppelin SDK](https://openzeppelin.com/sdk)
+    * [ds-math](https://github.com/dapphub/ds-math)
+    * [ethPM](https://www.ethpm.com/)
+      * [ethpm](https://github.com/ethpm)
 
   * _hacking practices_
     * [ethernaut](https://ethernaut.openzeppelin.com/)
@@ -57,6 +84,9 @@ course materials and references for its581
       * [contract Lotto](https://github.com/etherpot/contract/blob/master/app/contracts/lotto.sol)
     * [King of the Ether](https://www.kingoftheether.com/thrones/kingoftheether/index.html)
       * [Post-Mortem Investigation (Feb 2016)](https://www.kingoftheether.com/postmortem.html)
+    * [To Sink Frontrunners, Send in the Submarines](https://hackingdistributed.com/2017/08/28/submarine-sends/)
+      * [Ethereum naming service](https://ens.domains/)
+
 
 * __Dapps security__
   * [Decentralized Application Security Project (or DASP) Top 10 of 2018](https://www.dasp.co/)
