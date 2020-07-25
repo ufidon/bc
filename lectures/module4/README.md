@@ -14,6 +14,15 @@ _*Real estate*_
 
 * [Divisible real estate with equity and ownership for all](https://www.meridio.co/)
 
+_*Distributed storage*_
+
+* [IPFS](https://ipfs.io/)
+	* [go-ipfs](https://github.com/ipfs/go-ipfs)
+	* [js-ipfs](https://js.ipfs.io/)
+* [swarm](https://swarm-gateways.net/bzz:/swarm.eth/)
+	* [swarm gateways](https://swarm-gateways.net/)
+	* [ethersphere](https://github.com/ethersphere)
+	* [swarm](https://github.com/ethersphere/swarm)
 
 _*Blockchain solutions*_
 

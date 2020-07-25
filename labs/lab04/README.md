@@ -3,7 +3,10 @@ course materials and references for its581
 
 __Dapp development__
 
-1. _Private blockchain_
+0. _warmup reading_
+* [ethereum overview](https://www.trufflesuite.com/tutorials/ethereum-overview)
+
+1. _Private network_
 
 _1. Running client_
 
@@ -47,6 +50,16 @@ _2. [JSON-RPC API](https://geth.ethereum.org/docs/rpc/server)_
 _3. [web3.js - Ethereum JavaScript API](https://web3js.readthedocs.io)_
 
 2. _Ganache & Truffle_
+	* [Ganache docs](https://www.trufflesuite.com/docs/ganache/overview)
+		* [ganache](https://github.com/trufflesuite/ganache-cli)
+		* [ganache-core](https://github.com/trufflesuite/ganache-core)
+	* [Truffle docs](https://www.trufflesuite.com/docs/truffle/overview)
+		* [truffle](https://github.com/trufflesuite/truffle)
+	* [web3.js - Ethereum JavaScript API](https://web3js.readthedocs.io)
+		* [web3.js](https://github.com/ethereum/web3.js)
+	* [trufflesuite](https://www.trufflesuite.com/)
+		* [trufflesuite](https://github.com/trufflesuite)
+		* [truffle boxes](https://www.trufflesuite.com/boxes)
 
 __References__
 * _Ethereum node(client)_
@@ -82,8 +95,31 @@ __References__
     * [then function](https://masteringjs.io/tutorials/fundamentals/then)
     * [Promise.prototype.then()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Promise/then)
     * [Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using\_promises)
-    * [Arrow Function](https://www.w3schools.com/js/js\_arrow\_function.asp)
+    * [Async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async\_function)
+    * [Arrow Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow\_functions)
+    * [Keccak Abi encodePacked with JavaScript](https://blog.8bitzen.com/posts/18-03-2019-keccak-abi-encodepacked-with-javascript/)
+    * [Redux](https://redux.js.org/)
+    * [Mocha](https://mochajs.org/)
+    * [Chai](https://www.chaijs.com/)
+* _Ethereum toolsets_
+	* [EthereumJS](https://ethereumjs.github.io/)
+		* [EthereumJS](https://github.com/ethereumjs)
+* _Smart contract packages_
+	* [ethPM](https://www.ethpm.com/)
+		* [ethpm](https://github.com/ethpm)
+		* [ethpm-cli](https://github.com/ethpm/ethpm-cli)
+	* [npm](https://docs.npmjs.com/)
+	* [ERC: Ethereum Smart Contract Packaging Specification](https://github.com/ethereum/EIPs/issues/190)
+
+* _Ethereum development framework_
+	* [Truffle](https://www.trufflesuite.com)
+	* [Dapp](https://dapphub.com/)
+	* [brownie](https://github.com/eth-brownie/brownie)
+	* [Embark](https://framework.embarklabs.io/)
 
 * _Ethereum hardforks_
   * [History of Ethereum Hard Forks](https://medium.com/mycrypto/the-history-of-ethereum-hard-forks-6a6dae76d56f)
   * [Please provide a summary of the Ethereum hard forks](https://ethereum.stackexchange.com/questions/13014/please-provide-a-summary-of-the-ethereum-hard-forks)
+
+* [How can I reset my password?](https://metamask.zendesk.com/hc/en-us/articles/360039616872-How-can-I-reset-my-password-)
+* [ENS](https://ens.domains/)

@@ -111,6 +111,10 @@ course materials and references for its581
   * [HASHGRAPH CONSENSUS: DETAILED EXAMPLES](https://www.swirlds.com/downloads/SWIRLDS-TR-2016-02.pdf)
   * [Hashgraph wants to give you the benefits of blockchain without the limitations](https://techcrunch.com/2018/03/13/hashgraph-wants-to-give-you-the-benefits-of-blockchain-without-the-limitations/)
   * [Hedera Hashgraph Thinks It Can One-Up Bitcoin And Ethereum With Faster Transactions](https://www.forbes.com/sites/jeffkauflin/2018/03/13/hedera-hashgraph-thinks-it-can-one-up-bitcoin-and-ethereum-with-faster-transactions/#63e23f27abcb)
+  
+* _Private blockchain_
+	* [Quorum](https://www.goquorum.com/)
+		* [Building dapps for Quorum: Private Enterprise Blockchains](https://www.trufflesuite.com/tutorials/building-dapps-for-quorum-private-enterprise-blockchains)
 
 * _Development_
   * [Ethereum Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list)
