@@ -50,6 +50,46 @@ _2. [JSON-RPC API](https://geth.ethereum.org/docs/rpc/server)_
 _3. [web3.js - Ethereum JavaScript API](https://web3js.readthedocs.io)_
 
 2. _Ganache & Truffle_
+
+```bash
+# 1 . open a terminal window then install  nvm
+sudo chown -R $USER:$USER /opt
+sudo apt install curl
+mkdir -p /opt/nvm
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | NVM_DIR="/opt/nvm"  bash
+
+# 2. open a new terminal windows so nvm will be available for use
+nvm install --lts # install the latest lts version node
+
+npm install -g ganache-cli
+
+# 3. download the gui verion ganache from https://github.com/trufflesuite/ganache/releases
+# then play with it, in a terminal, go to the folder holds the downloaded ganache
+mv ganache-2.4.0-linux-x86_64.AppImage ganache
+chmod +x ganache
+./ganache
+
+# 4. install and play with truffle(https://www.trufflesuite.com/docs/truffle/quickstart)
+npm install -g truffle
+
+# 5. play with your own smart contract
+truffle init # create a framework
+truffle develop # start console
+
+>compile
+>migrate
+
+# get deployed smart contract abstraction
+let abs = await MyContract.deployed()
+
+abs.functions(params)
+
+# get built-in accounts
+let accounts = await web3.eth.getAccounts()
+
+
+```
+__Truffle,Ganache and web3__
 	* [Ganache docs](https://www.trufflesuite.com/docs/ganache/overview)
 		* [ganache](https://github.com/trufflesuite/ganache-cli)
 		* [ganache-core](https://github.com/trufflesuite/ganache-core)
@@ -60,6 +100,7 @@ _3. [web3.js - Ethereum JavaScript API](https://web3js.readthedocs.io)_
 	* [trufflesuite](https://www.trufflesuite.com/)
 		* [trufflesuite](https://github.com/trufflesuite)
 		* [truffle boxes](https://www.trufflesuite.com/boxes)
+  * [Solidity type converter](https://blockchangers.github.io/solidity-converter-online/)
 
 __References__
 * _Ethereum node(client)_
