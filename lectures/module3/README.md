@@ -73,6 +73,11 @@ course materials and references for its581
   * [Smart Contracts: Privacy vs Confidentiality](https://medium.com/@mikesmolenski/smart-contracts-privacy-vs-confidentiality-645b6e9c6e5a)
   * [Two party contracts](https://dappsforbeginners.wordpress.com/tutorials/two-party-contracts/)
   * [How A Smart Contract replaced An Escrow Company in a $60k deal](https://hackernoon.com/how-a-smart-contract-replaced-an-escrow-company-in-a-60k-deal-551ff7839044)
+
+*	_disassembling smartcontract_
+	* [ida-evm](https://github.com/crytic/ida-evm)
+	* [ethersplay](https://github.com/crytic/ethersplay)
+	* [JEB in action](https://www.pnfsoftware.com/blog/ethereum-smart-contract-decompiler/)
   
 * _Solidity_  
   * [What is Solidity? Our Guide to the Language of Ethereum Smart Contracts](https://blockonomi.com/solidity-guide/)
@@ -98,12 +103,28 @@ course materials and references for its581
   * [web3.js - Ethereum JavaScript API](https://web3js.readthedocs.io/en/v1.2.9/)
   * [Ethereum CLI Tools](https://gavofyork.gitbooks.io/turboethereum/content/cli_tools.html)
   * [Ethereum Pet Shop -- Your First Dapp](https://www.trufflesuite.com/tutorials/pet-shop)
+  * [Whisper](https://eth.wiki/concepts/whisper/whisper)
+* _Oracle_
+	* [Town Crier](https://www.town-crier.org/)
+	* [Scalable, Trustless Computation](https://truebit.io/)
+	* [LINK network](https://www.smartcontract.com/link)
+	* [provable things](https://github.com/provable-things)
   
 * _IPFS_
 
   * [What is the InterPlanetary File System?](https://themerkle.com/what-is-the-interplanetary-file-system/)
   * [An Introduction to IPFS](https://medium.com/@ConsenSys/an-introduction-to-ipfs-9bba4860abd0)
   * [The web's scaffolding tool for modern webapps](https://yeoman.io/)
+
+* _Swarm_
+	* [swarm](https://swarm.ethereum.org/)
+	* [swarm source code](https://github.com/ethersphere/swarm)
+	* [swarm docs](https://swarm-guide.readthedocs.io/en/latest/)
+
+* _ENS_
+	* [ens](https://ens.domains/)
+	* [mycrypto](https://mycrypto.com/ens)
+	* [managing a name](https://app.ens.domains/)
 
 * _Hashgraph_
 
