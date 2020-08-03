@@ -142,8 +142,8 @@ __References__
     * [Redux](https://redux.js.org/)
 * _Javascript testing framework_    
     * [Mocha](https://mochajs.org/)
-			* [A guide to mocha's describe(), it() and setup hooks](https://samwize.com/2014/02/08/a-guide-to-mochas-describe-it-and-setup-hooks/)
-			* [A quick and complete guide to Mocha testing](https://blog.logrocket.com/a-quick-and-complete-guide-to-mocha-testing-d0e0ea09f09d/)
+		  * [A guide to mocha's describe(), it() and setup hooks](https://samwize.com/2014/02/08/a-guide-to-mochas-describe-it-and-setup-hooks/)
+		  * [A quick and complete guide to Mocha testing](https://blog.logrocket.com/a-quick-and-complete-guide-to-mocha-testing-d0e0ea09f09d/)
     * [Chai](https://www.chaijs.com/)
     * [Truffle test does NOT work](https://github.com/trufflesuite/truffle/issues/2463)
 * _Ethereum toolsets_
