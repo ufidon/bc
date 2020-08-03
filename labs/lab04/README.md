@@ -140,8 +140,12 @@ __References__
     * [Arrow Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow\_functions)
     * [Keccak Abi encodePacked with JavaScript](https://blog.8bitzen.com/posts/18-03-2019-keccak-abi-encodepacked-with-javascript/)
     * [Redux](https://redux.js.org/)
+* _Javascript testing framework_    
     * [Mocha](https://mochajs.org/)
+			* [A guide to mocha's describe(), it() and setup hooks](https://samwize.com/2014/02/08/a-guide-to-mochas-describe-it-and-setup-hooks/)
+			* [A quick and complete guide to Mocha testing](https://blog.logrocket.com/a-quick-and-complete-guide-to-mocha-testing-d0e0ea09f09d/)
     * [Chai](https://www.chaijs.com/)
+    * [Truffle test does NOT work](https://github.com/trufflesuite/truffle/issues/2463)
 * _Ethereum toolsets_
   * [EthereumJS](https://ethereumjs.github.io/)
     * [EthereumJS](https://github.com/ethereumjs)
@@ -162,5 +166,8 @@ __References__
   * [History of Ethereum Hard Forks](https://medium.com/mycrypto/the-history-of-ethereum-hard-forks-6a6dae76d56f)
   * [Please provide a summary of the Ethereum hard forks](https://ethereum.stackexchange.com/questions/13014/please-provide-a-summary-of-the-ethereum-hard-forks)
 
-* [How can I reset my password?](https://metamask.zendesk.com/hc/en-us/articles/360039616872-How-can-I-reset-my-password-)
+* _MetaMask_
+  * [How can I reset my password?](https://metamask.zendesk.com/hc/en-us/articles/360039616872-How-can-I-reset-my-password-)
+  * [No Longer Injecting web3.js](https://medium.com/metamask/no-longer-injecting-web3-js-4a899ad6e59e)
+  * [Breaking Changes to the MetaMask Inpage Provider](https://medium.com/metamask/breaking-changes-to-the-metamask-inpage-provider-b4dde069dd0a)
 * [ENS](https://ens.domains/)
