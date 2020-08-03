@@ -141,11 +141,11 @@ __References__
     * [Keccak Abi encodePacked with JavaScript](https://blog.8bitzen.com/posts/18-03-2019-keccak-abi-encodepacked-with-javascript/)
     * [Redux](https://redux.js.org/)
 * _Javascript testing framework_    
-    * [Mocha](https://mochajs.org/)
-		  * [A guide to mocha's describe(), it() and setup hooks](https://samwize.com/2014/02/08/a-guide-to-mochas-describe-it-and-setup-hooks/)
-		  * [A quick and complete guide to Mocha testing](https://blog.logrocket.com/a-quick-and-complete-guide-to-mocha-testing-d0e0ea09f09d/)
-    * [Chai](https://www.chaijs.com/)
-    * [Truffle test does NOT work](https://github.com/trufflesuite/truffle/issues/2463)
+  * [Mocha](https://mochajs.org/)
+    * [A guide to mocha's describe(), it() and setup hooks](https://samwize.com/2014/02/08/a-guide-to-mochas-describe-it-and-setup-hooks/)
+    * [A quick and complete guide to Mocha testing](https://blog.logrocket.com/a-quick-and-complete-guide-to-mocha-testing-d0e0ea09f09d/)
+  * [Chai](https://www.chaijs.com/)
+  * [Truffle test does NOT work](https://github.com/trufflesuite/truffle/issues/2463)
 * _Ethereum toolsets_
   * [EthereumJS](https://ethereumjs.github.io/)
     * [EthereumJS](https://github.com/ethereumjs)
