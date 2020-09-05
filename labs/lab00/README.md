@@ -39,6 +39,8 @@ tar jxf Zotero-5.0.88_linux-x86_64.tar.bz2
 # Check the name(Zotero_linux-x86_64) of the unarchived folder of zotero, change it to yours
 sudo chown $USER:$USER /opt
 mv Zotero_linux-x86_64 /opt/zotero
+cd /opt/zotero
+./set_launcher_icon
 sudo cp /opt/zotero/zotero.desktop /usr/share/applications/
 # logout then login Ubuntu
 # run zotero from start menu and install Zotero LibreOffice plugin
